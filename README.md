@@ -1,1 +1,1 @@
-# Hangman-Game
+This is a basic hangman game in HTML, CSS and JS. Currently, a work in progress.

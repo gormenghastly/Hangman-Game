@@ -1,0 +1,52 @@
+body {
+    background-color: #777777;
+    background-image: url("../images/westworld.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: "arial black", "sans-serif"; 
+}
+
+h1 {
+    color: #2b2a2a;
+    font-size: 36px;
+    text-align: center;
+    margin: 70px 0 0 0;
+}
+h2 {color: #777777;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+
+}
+#west {
+    color: #2b2a2a;
+    font-size: 48px;
+    text-shadow: 0 0 15px white;
+    margin-top: 15px;
+
+
+}
+#press {
+    color: white;
+    text-align: center;
+    margin-top: 15px;    
+}
+.current {
+    margin-top: 45px;
+    font-size: 30px;
+    text-align: center;
+}
+.guessed {
+    margin-top: 60px;
+    text-align: center;
+}
+.guesses {
+    margin-top: 30px;
+    text-align: center;
+}
+.wins {
+    margin-top: 30px;
+    text-align: center;
+}
+
